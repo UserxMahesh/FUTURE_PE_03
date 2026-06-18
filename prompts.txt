@@ -1,0 +1,85 @@
+Prompt Engineering Workflow
+
+Prompt 1: Keyword Research
+
+Generate keyword research for a beauty salon called Future Salon & Spa.
+
+Requirements:
+- Primary keyword
+- Secondary keywords
+- Long-tail keywords
+- Search intent
+- Target audience
+- SEO goal
+
+Topic:
+Best Hair Spa Treatment in Vijayawada: Benefits, Cost, and Expert Tips
+
+
+Prompt 2: SEO Blog Outline
+
+Create a detailed SEO blog outline using H1, H2, and H3 headings.
+
+Topic:
+Best Hair Spa Treatment in Vijayawada: Benefits, Cost, and Expert Tips
+
+Include:
+- Introduction
+- Benefits
+- Cost
+- Expert Tips
+- FAQs
+- Conclusion
+
+
+Prompt 3: Long-Form SEO Blog
+
+Write a professional SEO-friendly blog article between 1000 and 1500 words.
+
+Business:
+Future Salon & Spa
+
+Topic:
+Best Hair Spa Treatment in Vijayawada: Benefits, Cost, and Expert Tips
+
+Requirements:
+- Human-readable
+- SEO optimized
+- Informative
+- Include FAQs
+- Include a call to action
+
+
+Prompt 4: Content Cluster Generation
+
+Generate supporting blog topics related to hair spa treatments.
+
+Requirements:
+- Pillar content
+- Supporting content
+- SEO cluster strategy
+
+
+Prompt 5: Local SEO Adaptation
+
+Adapt the blog content for local SEO.
+
+Location:
+Vijayawada
+
+Requirements:
+- Local keywords
+- Meta description
+- Google Business Profile focus
+- Local search optimization
+
+
+Prompt 6: Internal Linking Strategy
+
+Create an internal linking structure for the blog content.
+
+Requirements:
+- Pillar page
+- Supporting pages
+- Linking opportunities
+- SEO benefits
